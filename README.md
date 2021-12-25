@@ -38,8 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github repo](https://github.com/christine-aqui/NFT-preview-card-component)
+- Live Site URL: [github page](https://christine-aqui.github.io/NFT-preview-card-component/)
 
 ## My process
 
